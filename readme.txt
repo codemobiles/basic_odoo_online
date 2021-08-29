@@ -1,1 +1,2 @@
-What is Odoo?
+- What is Odoo?
+- Register Odoo (www.odoo.com)
